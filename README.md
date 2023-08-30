@@ -33,7 +33,6 @@ spec:
     git:      
       url: https://github.com/mmorhun/sample-multi-component
       context: go-component
-      devfileUrl: go-component/devfile.yaml
 ```
 
 #### Component 2
@@ -54,6 +53,5 @@ spec:
     git:      
       url: https://github.com/mmorhun/sample-multi-component
       context: python-component
-      devfileUrl: python-component/devfile.yaml
 ```
 
